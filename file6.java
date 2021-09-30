@@ -1,12 +1,6 @@
 // Java program for the above approach 
-
-  
-
 class GFG { 
-
-  
-
-    // Function to print N Fibonacci Number 
+     // Function to print N Fibonacci Number 
 
     static void Fibonacci(int N) 
 
@@ -14,23 +8,15 @@ class GFG {
 
         int num1 = 0, num2 = 1; 
 
-  
-
         int counter = 0; 
-
-  
 
         // Iterate till counter is N 
 
         while (counter < N) { 
 
-  
-
             // Print the number 
 
             System.out.print(num1 + " "); 
-
-  
 
             // Swap 
 
